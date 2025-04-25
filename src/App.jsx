@@ -10,7 +10,7 @@ function App() {
           <p className="text-lg text-gray-500">Upload your image enhance with AI in seconds!</p>
         </div>
         <Home/>
-        <div className="text-lg text-gray-500 mt-2">
+        <div className="text-lg text-gray-500 mt-6">
           <p>Powered by @Aritra</p>
         </div>
       </div>
